@@ -15,13 +15,11 @@
 
 - ⚡ Quick fact: I once endeavored to create a startup and failed miserably. That got me into programming.
 
-<div>
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+
 <a href="https://linkedin.com/in/moraesjonathan">
   <img align="left" alt="Jonathan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -35,5 +33,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexcalia&show_icons=true&locale=en&theme=prussian" alt="alexcalia" /></p>
