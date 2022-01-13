@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently working with: JavaScript to create ERP automations, Firebase (TypeScript) to develop APIs and Zoho Creator to create low-code applications.
 
-- 🌱 Currently expanding my skills in Front-End with React and working on a couple projects involving it.
+- 🌱 Most recently been expanding my skills in Front-End with React and working on a couple projects involving it.
 
 <!-- - 📄 My resume can be found [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:21062681/). -->
 
