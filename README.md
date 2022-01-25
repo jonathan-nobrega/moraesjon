@@ -11,7 +11,7 @@
 
 <!-- - 📄 My resume can be found [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:21062681/). -->
 
-- ⚡ Quick fact: I once endeavored to create a startup and failed miserably. That got me into programming.
+- ⚡ Quick fact: I once endeavored to create a startup and failed. That got me into programming.
 
 <h3 align="left">Languages and Tools:</h3>
 
