@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jon!</h1>
 <h3 align="left">A Back-End Developer passionate about creating applications and experiences on the web.</h3>
-<p>I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.</p>
+<p>I enjoy the challenge of creating applications and experiences that are interactive and informative, and I am always learning and improving my skills on the latest web technologies.</p>
 <!-- <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv"> -->
 
 - 👨 Check out my portfolio at [my website](https://moraesjon.github.io/cv-my-website/) or my [LinkedIn](https://linkedin.com/in/moraesjonathan) profile.
