@@ -5,7 +5,7 @@
 
 - 👨 Check out my portfolio at [my website](https://moraesjon.github.io/cv-my-website/) or my [LinkedIn](https://linkedin.com/in/moraesjonathan) profile.
 
-- 👨‍💻 Currently working with: Bulding applications using Next.js together with Zoho Suite databases.
+- 👨‍💻 Currently working with: Applications using Next.js together with Zoho Suite databases.
 
 - 🌱 Most recently: Expanding my skills and working on a couple of projects using React.
 
