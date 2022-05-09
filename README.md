@@ -5,9 +5,9 @@
 
 - 👨 Check out my portfolio at [my website](https://moraesjon.github.io/cv-my-website/) or my [LinkedIn](https://linkedin.com/in/moraesjonathan) profile.
 
-- 👨‍💻 Currently working with: JavaScript to create ERP automations, Firebase (TypeScript) to develop APIs and Zoho Creator to create low-code applications.
+- 👨‍💻 Currently working with: Bulding applications using Next.js together with Zoho Suite databases.
 
-- 🌱 Most recently been expanding my skills in Front-End with React and working on a couple projects involving it.
+- 🌱 Most recently: Expanding my skills and working on a couple of projects using React.
 
 <!-- - 📄 My resume can be found [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:21062681/). -->
 
