@@ -7,7 +7,7 @@
 
 - 👨‍💻 Currently working with: Applications using Next.js together with Zoho Suite databases.
 
-- 🌱 Most recently: Expanding my skills and working on a couple of projects using React.
+- 🌱 Most recently: Expanding my skills and working on a couple of projects using NextJS and NestJS.
 
 <!-- - 📄 My resume can be found [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:21062681/). -->
 
